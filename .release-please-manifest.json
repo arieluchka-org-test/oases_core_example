@@ -1,5 +1,5 @@
 {
-  "AssetsConfigurationProviderService": "1.1.2",
-  "AuthorizationService": "2.1.7",
+  "AssetsConfigurationProviderService": "1.1.3",
+  "AuthorizationService": "2.1.8",
   "ServiceSettingsProviderService": "1.1.10"
 }
