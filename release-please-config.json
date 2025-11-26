@@ -1,0 +1,18 @@
+{
+  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
+  "separate-pull-requests": true,
+  "packages": {
+    "AssetsConfigurationProviderService": {
+      "release-type": "simple",
+      "package-name": "Assets-Config-Provider"
+    },
+    "AuthorizationService": {
+      "release-type": "simple",
+      "package-name": "Authorization-Service"
+    },
+    "ServiceSettingsProviderService": {
+      "release-type": "simple",
+      "package-name": "Service-Settings-Provider"
+    }
+  }
+}

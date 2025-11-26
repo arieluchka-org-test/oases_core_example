@@ -1,0 +1,1 @@
+Release please example for oases-core

@@ -1,0 +1,1 @@
+Assets config provider
