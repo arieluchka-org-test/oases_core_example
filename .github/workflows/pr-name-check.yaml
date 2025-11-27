@@ -1,6 +1,7 @@
 name: Check PR title
+
 on:
-  pull_request:
+  pull_request_target:
     types:
       - opened
       - reopened
@@ -10,12 +11,9 @@ on:
 jobs:
   lint:
     runs-on: ubuntu-latest
+    permissions:
+      statuses: write
     steps:
-      - uses: rharper-sapient/conventional-pr-title-action-alt@master
-        with:
-          success-state: Title follows the specification.
-          failure-state: Title does not follow the specification.
-          context-name: conventional-pr-title
-          preset: conventional-changelog-angular@latest
+      - uses: aslafy-z/conventional-pr-title-action@v3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
