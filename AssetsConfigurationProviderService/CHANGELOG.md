@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.4](https://github.com/arieluchka-org-test/oases_core_example/compare/Assets-Config-Provider-v1.1.3...Assets-Config-Provider-v1.1.4) (2025-11-27)
+
+
+### Bug Fixes
+
+* fix1 example ([107f142](https://github.com/arieluchka-org-test/oases_core_example/commit/107f1429333c363ea1ed717b5af814c667f632e2))
+* fix2 example ([f29948b](https://github.com/arieluchka-org-test/oases_core_example/commit/f29948b9bb06924bb0c9846d85e7f904fce42754))
+
 ## [1.1.3](https://github.com/arieluchka-org-test/oases_core_example/compare/Assets-Config-Provider-v1.1.2...Assets-Config-Provider-v1.1.3) (2025-11-26)
 
 
