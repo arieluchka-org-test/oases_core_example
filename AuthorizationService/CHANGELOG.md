@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.10](https://github.com/arieluchka-org-test/oases_core_example/compare/Authorization-Service-v2.1.9...Authorization-Service-v2.1.10) (2025-12-04)
+
+
+### Bug Fixes
+
+* skibidi 2 ([#15](https://github.com/arieluchka-org-test/oases_core_example/issues/15)) ([41d5157](https://github.com/arieluchka-org-test/oases_core_example/commit/41d5157e8edf7e5d61e10b6da14732a24f3223eb))
+
 ## [2.1.9](https://github.com/arieluchka-org-test/oases_core_example/compare/Authorization-Service-v2.1.8...Authorization-Service-v2.1.9) (2025-11-27)
 
 
