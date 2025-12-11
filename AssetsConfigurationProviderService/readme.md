@@ -1,1 +1,3 @@
 Assets config provider
+
+skibid
