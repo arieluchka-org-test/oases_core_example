@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.5.0](https://github.com/arieluchka-org-test/oases_core_example/compare/Authorization-Service-v2.2.0...Authorization-Service-v2.5.0) (2025-12-11)
+
+
+### Bug Fixes
+
+* banana ([0e8f399](https://github.com/arieluchka-org-test/oases_core_example/commit/0e8f39981675c4d6d45977638b991652a307764e))
+* testing backporting ([#33](https://github.com/arieluchka-org-test/oases_core_example/issues/33)) ([FRES-3550](https://brightsourceenergy.atlassian.net/browse/FRES-3550)) ([1566548](https://github.com/arieluchka-org-test/oases_core_example/commit/1566548d4f198a3d73a17a8921bd9601e616b300))
+
+
+### Miscellaneous Chores
+
+* release 2.5.0 ([114f4e0](https://github.com/arieluchka-org-test/oases_core_example/commit/114f4e029a76b26bb0fecc3d296e504f48f2e6e4))
+
 ## [2.2.0](https://github.com/arieluchka-org-test/oases_core_example/compare/Authorization-Service-v2.1.9...Authorization-Service-v2.2.0) (2025-12-10)
 
 
