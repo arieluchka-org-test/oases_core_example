@@ -1,5 +1,15 @@
 # Changelog
 
+## [2.5.1](https://github.com/arieluchka-org-test/oases_core_example/compare/Authorization-Service-v2.5.0...Authorization-Service-v2.5.1) (2025-12-14)
+
+
+### Bug Fixes
+
+* another try ([efe49ba](https://github.com/arieluchka-org-test/oases_core_example/commit/efe49ba4f4cfb478b68e588cfd3446a5fbc5a671))
+* backported something with correct commit ([4caf179](https://github.com/arieluchka-org-test/oases_core_example/commit/4caf1799ec0eb730283f4c310cde7d8c5a9f839b))
+* bug fix 2 ([#42](https://github.com/arieluchka-org-test/oases_core_example/issues/42)) ([ed55988](https://github.com/arieluchka-org-test/oases_core_example/commit/ed559884831790a0e8b2072a27744fa35b7a393a))
+* bug fix 2 [release/auth/v2.5.0]  ([#43](https://github.com/arieluchka-org-test/oases_core_example/issues/43)) ([ed55988](https://github.com/arieluchka-org-test/oases_core_example/commit/ed559884831790a0e8b2072a27744fa35b7a393a))
+
 ## [2.5.0](https://github.com/arieluchka-org-test/oases_core_example/compare/Authorization-Service-v2.2.0...Authorization-Service-v2.5.0) (2025-12-11)
 
 
